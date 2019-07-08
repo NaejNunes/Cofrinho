@@ -19,7 +19,7 @@ public class PontosController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        txtMoedasQTD.text = "" + moedasQTD;
+        txtMoedasQTD.text = "" + moedasQTD + "/60";
 
         if (moedasQTD > 60)
         {

@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class MoedaController : MonoBehaviour
 {   
-    bool moedaEscolhida;
+    bool moedaEscolhida, animacaoAtiva;
 
     public Transform[] wayPoints;
 
-    int cur;
+    int cur, milesimos, segundos;
 
     public float speed;
 
@@ -19,11 +19,17 @@ public class MoedaController : MonoBehaviour
         animacao = GetComponent<Animator>();
 
         moedaEscolhida = false;
+        animacaoAtiva = false;
+
+        milesimos = 18;
+        segundos = 1;
     }
 
     // Update is called once per frame
     void Update()
     {
+        Debug.Log(segundos + ":" + milesimos);
+
         if (moedaEscolhida == true)
         {
             if (transform.position != wayPoints[cur].position)
@@ -40,6 +46,15 @@ public class MoedaController : MonoBehaviour
             GetComponent<Animator>().SetFloat("DirX", dir.x);
             GetComponent<Animator>().SetFloat("DirY", dir.y);
         }
+
+        if (animacaoAtiva == true)
+        {
+            milesimos -= 1;
+            if (milesimos <= 0)
+            {
+                Destroy(gameObject);
+            }
+        }
     }
 
     public void OnMouseDown()
@@ -52,7 +67,7 @@ public class MoedaController : MonoBehaviour
         if (collision.gameObject.CompareTag("DestinoMoeda"))
         {
             animacao.SetBool("DestroirMoeda", true);
-            Destroy(gameObject);
+            animacaoAtiva = true;               
         }
     }
 }

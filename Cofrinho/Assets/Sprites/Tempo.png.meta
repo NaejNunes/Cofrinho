@@ -1,0 +1,2174 @@
+fileFormatVersion: 2
+guid: a8c9a1be3a6116a4493fd10ec306ca0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1002141527020045268
+    second: Tempo_0
+  - first:
+      213: 635015022127587435
+    second: Tempo_1
+  - first:
+      213: 9036110269462079083
+    second: Tempo_2
+  - first:
+      213: -6570485653011645460
+    second: Tempo_3
+  - first:
+      213: 2094290144531026795
+    second: Tempo_4
+  - first:
+      213: 4008568750780883678
+    second: Tempo_5
+  - first:
+      213: -6145087506812725007
+    second: Tempo_6
+  - first:
+      213: -9085603221765474248
+    second: Tempo_7
+  - first:
+      213: 5865312271258218586
+    second: Tempo_8
+  - first:
+      213: -2915010474892285909
+    second: Tempo_9
+  - first:
+      213: -8689168700602003874
+    second: Tempo_10
+  - first:
+      213: -2631087819581094880
+    second: Tempo_11
+  - first:
+      213: 3377347418407149520
+    second: Tempo_12
+  - first:
+      213: -1684492294049035869
+    second: Tempo_13
+  - first:
+      213: -8647686356980152155
+    second: Tempo_14
+  - first:
+      213: -5441429447860090290
+    second: Tempo_15
+  - first:
+      213: 591538924599613642
+    second: Tempo_16
+  - first:
+      213: -8953246401336063008
+    second: Tempo_17
+  - first:
+      213: -3524142459147270564
+    second: Tempo_18
+  - first:
+      213: -7002281237172471139
+    second: Tempo_19
+  - first:
+      213: -2014953472654740546
+    second: Tempo_20
+  - first:
+      213: 6594801765379286312
+    second: Tempo_21
+  - first:
+      213: -8431675090134843221
+    second: Tempo_22
+  - first:
+      213: -6799262204931274970
+    second: Tempo_23
+  - first:
+      213: 5353609648266458753
+    second: Tempo_24
+  - first:
+      213: 823816545598400296
+    second: Tempo_25
+  - first:
+      213: 3623568746493085222
+    second: Tempo_26
+  - first:
+      213: -2469648108345615590
+    second: Tempo_27
+  - first:
+      213: -8450226112844904116
+    second: Tempo_28
+  - first:
+      213: 4981278998730769536
+    second: Tempo_29
+  - first:
+      213: -8376188356718902836
+    second: Tempo_30
+  - first:
+      213: -8433246672870531128
+    second: Tempo_31
+  - first:
+      213: 5150191845494239907
+    second: Tempo_32
+  - first:
+      213: -7528746031144147472
+    second: Tempo_33
+  - first:
+      213: 4237640441589993960
+    second: Tempo_34
+  - first:
+      213: 2409309533372982571
+    second: Tempo_35
+  - first:
+      213: 6246180632439757917
+    second: Tempo_36
+  - first:
+      213: -1853030405737871302
+    second: Tempo_37
+  - first:
+      213: 9106495458501259203
+    second: Tempo_38
+  - first:
+      213: -715035479544036092
+    second: Tempo_39
+  - first:
+      213: -7485988000665910545
+    second: Tempo_40
+  - first:
+      213: -3290489761595201708
+    second: Tempo_41
+  - first:
+      213: -3001507494895825466
+    second: Tempo_42
+  - first:
+      213: 3576710119086495975
+    second: Tempo_43
+  - first:
+      213: -3196407099596726841
+    second: Tempo_44
+  - first:
+      213: 8792520786593015636
+    second: Tempo_45
+  - first:
+      213: -1118892708013083035
+    second: Tempo_46
+  - first:
+      213: -6326571393808407548
+    second: Tempo_47
+  - first:
+      213: 1988699461479312686
+    second: Tempo_48
+  - first:
+      213: 878484755190267289
+    second: Tempo_49
+  - first:
+      213: 4382667193807570755
+    second: Tempo_50
+  - first:
+      213: 134788210252920137
+    second: Tempo_51
+  - first:
+      213: -4268141268341769313
+    second: Tempo_52
+  - first:
+      213: -84527393293643426
+    second: Tempo_53
+  - first:
+      213: -2771206224255913652
+    second: Tempo_54
+  - first:
+      213: -5546444750354120569
+    second: Tempo_55
+  - first:
+      213: 7933209298954550066
+    second: Tempo_56
+  - first:
+      213: 9148190366794783541
+    second: Tempo_57
+  - first:
+      213: -581991066456506633
+    second: Tempo_58
+  - first:
+      213: -7644829609973734121
+    second: Tempo_59
+  - first:
+      213: -8426998000942580825
+    second: Tempo_60
+  - first:
+      213: -7113624887397948949
+    second: Tempo_61
+  - first:
+      213: -7270814650277670732
+    second: Tempo_62
+  - first:
+      213: -1500719510110114010
+    second: Tempo_63
+  - first:
+      213: -7833464162656926493
+    second: Tempo_64
+  - first:
+      213: -6927629625588910893
+    second: Tempo_65
+  - first:
+      213: 1212502460286782687
+    second: Tempo_66
+  - first:
+      213: -8837878361760284764
+    second: Tempo_67
+  - first:
+      213: -617247476150847901
+    second: Tempo_68
+  - first:
+      213: 5300799270362101741
+    second: Tempo_69
+  - first:
+      213: -1011445185968826431
+    second: Tempo_70
+  - first:
+      213: -7117328875536380361
+    second: Tempo_71
+  - first:
+      213: -6144488562492434825
+    second: Tempo_72
+  - first:
+      213: 6135792643850254180
+    second: Tempo_73
+  - first:
+      213: -4830008458465542722
+    second: Tempo_74
+  - first:
+      213: 7483002184585096820
+    second: Tempo_75
+  - first:
+      213: -941859797148609602
+    second: Tempo_76
+  - first:
+      213: -4036770486228742893
+    second: Tempo_77
+  - first:
+      213: -8156843536214167
+    second: Tempo_78
+  - first:
+      213: -5918923234801938313
+    second: Tempo_79
+  - first:
+      213: 2523268168370880415
+    second: Tempo_80
+  - first:
+      213: 1452716618694860232
+    second: Tempo_81
+  - first:
+      213: -8431921066500828705
+    second: Tempo_82
+  - first:
+      213: 630633445190323723
+    second: Tempo_83
+  - first:
+      213: 2642595566207892142
+    second: Tempo_84
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempo_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 943
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88557eed61db21c4cbba09346d04a3bf
+      internalID: 1002141527020045268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 953
+        width: 326
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfae689d95fbaa4a8fd2852daf6b3c6
+      internalID: 635015022127587435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 923
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d0afc257e7394381e4d1ca41479ff
+      internalID: 9036110269462079083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 932
+        width: 326
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96398f1770fba934bb22374a54be3435
+      internalID: -6570485653011645460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 902
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92737e3c577d844e9534b1efac789f7
+      internalID: 2094290144531026795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 911
+        width: 326
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d3976fe3315b439996956b0673455
+      internalID: 4008568750780883678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 881
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea515c9763fa2b4f9547e5e3af28b1c
+      internalID: -6145087506812725007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 890
+        width: 326
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8b4ed6e478d94f9ef5cc36081b56f
+      internalID: -9085603221765474248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 861
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8aec7ad2bb9e549b82111d7fe1cb0f
+      internalID: 5865312271258218586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 870
+        width: 326
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0825eb71db69cc54dad6587a25ee975a
+      internalID: -2915010474892285909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 840
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b8dac0186a9b43a52e8afc30ea8cd
+      internalID: -8689168700602003874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 849
+        width: 326
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e613a6b8d35c4fa84032efa00fe90
+      internalID: -2631087819581094880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 819
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd770f907049e4db01df8c6922d421
+      internalID: 3377347418407149520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 827
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb8a3cbaa89294c92e031132723885
+      internalID: -1684492294049035869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 798
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c76d3214c61ac48a6607f922dd2d9a
+      internalID: -8647686356980152155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 806
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe29f302e22c6148b9694e133d088f3
+      internalID: -5441429447860090290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 778
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4bab1f46463b4aa90bb63e0a05007
+      internalID: 591538924599613642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 785
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a5129c63e6974c869e0afa00a3184
+      internalID: -8953246401336063008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 757
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172efe23c08135c4290579a460fbdeef
+      internalID: -3524142459147270564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 764
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07712d579266e4aafc7aacd65f650d
+      internalID: -7002281237172471139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 736
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78288137aef954ea74d37bb179611c
+      internalID: -2014953472654740546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 744
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446cd54177c802043b559c98e1a21785
+      internalID: 6594801765379286312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 715
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc06a87fdd55c9c4fbcb45459d23bd4f
+      internalID: -8431675090134843221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 723
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7c1ac5aedf5c438854aed73d1ff94
+      internalID: -6799262204931274970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 695
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a777d86e03d54d92909ddd9dbd620
+      internalID: 5353609648266458753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 702
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aae4f709291504dbe272f1249a4cbb
+      internalID: 823816545598400296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 674
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a95896ce7a0144ca804f5008b66522
+      internalID: 3623568746493085222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_27
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 681
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996e72911911384dabdfa77771eb6d0
+      internalID: -2469648108345615590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 653
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773491b77f6ace4dab74a8d57b69765
+      internalID: -8450226112844904116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 661
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66792f10a5543bb478c293e08f9fe448
+      internalID: 4981278998730769536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 632
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d46f63042367148a4862930def8b22
+      internalID: -8376188356718902836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 640
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e30ec4d14ba10444bc1bee8b2587557
+      internalID: -8433246672870531128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 612
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8873e76180cd9894c8a3dd4ece57913a
+      internalID: 5150191845494239907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 619
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25755d8c49a0ba4393683c28d56f1ae
+      internalID: -7528746031144147472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 591
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ac59b512615f459e085a3ba9db247
+      internalID: 4237640441589993960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 599
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdc74808a1bb7f4e8dc15e9935afea5
+      internalID: 2409309533372982571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 570
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317f4860be9cde418c57a46384f8a14
+      internalID: 6246180632439757917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 576
+        width: 325
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a3511ed17f7c47b81a2c097e3c7d7
+      internalID: -1853030405737871302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 549
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086e7ad848af9846840bda70080bb92
+      internalID: 9106495458501259203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 557
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e8053262a5a14f8e781982c028c52
+      internalID: -715035479544036092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 528
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee561f9ce2caa4da3b6b4b9dd9e831
+      internalID: -7485988000665910545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 536
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5304d0d28d26745921d11a946f94d9
+      internalID: -3290489761595201708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 508
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3801d3883f065844cbc9040f1eeecc66
+      internalID: -3001507494895825466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_43
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 516
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a6485a9bf2749499600eda79be85d1
+      internalID: 3576710119086495975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 487
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca231dcab2a52c7448d04bb216d45295
+      internalID: -3196407099596726841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 495
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aad1cc94942654d92897ba53574e53
+      internalID: 8792520786593015636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 467
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c2c5f0fef1cb240bb806eb0a5454b9
+      internalID: -1118892708013083035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 474
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c185d5c7c936841bd4c4632a4e83c6
+      internalID: -6326571393808407548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 446
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389462918180ee44b9e3adaff0d300c7
+      internalID: 1988699461479312686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_49
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 453
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7bfabb872291240a487bdf4bf0ee7b
+      internalID: 878484755190267289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 425
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c109870bbea2429a8183e7fe9ef11
+      internalID: 4382667193807570755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_51
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 433
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f6ddcf6bc26b478b335adb1aa5fbc
+      internalID: 134788210252920137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 404
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3bf89172400b442ae3e4dbd8a3b28e
+      internalID: -4268141268341769313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 412
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6abfc60bd7dabd418c9e2a7bd608bc6
+      internalID: -84527393293643426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 384
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef49f560b79684c896f8b8d0649dfc
+      internalID: -2771206224255913652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_55
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 391
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78bacedde8b7be4d83a16c491a08319
+      internalID: -5546444750354120569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 363
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4209a9a91b4d3c645acb91b1dca14fad
+      internalID: 7933209298954550066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_57
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 370
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8374f4feadf842af78f0e1af84877
+      internalID: 9148190366794783541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 342
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e4c77e6eb06044c98e8fcc98c03ed5
+      internalID: -581991066456506633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_59
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 350
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065682d67de3d0d47bef2ddd39d5237b
+      internalID: -7644829609973734121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 321
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04890c5d3011e4cbdd274c34262dd5
+      internalID: -8426998000942580825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 329
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ae8086447ae74ba06062f1dd9881c
+      internalID: -7113624887397948949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 301
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2cc977452fc043a122a13c48b7776
+      internalID: -7270814650277670732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_63
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 308
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28154a3958e48ae4d9703c954c47e694
+      internalID: -1500719510110114010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 262
+        width: 325
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b25c51302d5844b62ebdddab9d777
+      internalID: -7833464162656926493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_65
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 287
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d570f6a62c281641a9df6df375a1fa0
+      internalID: -6927629625588910893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 267
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60241330da2bbd9498480f1c59dafb3a
+      internalID: 1212502460286782687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 242
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690318a78fe0a3540b0f824615d74f9a
+      internalID: -8837878361760284764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_68
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 246
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c9dd0b3930bb48bee1a620a57f253
+      internalID: -617247476150847901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 221
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153c5d5810e620478bd90193564848e
+      internalID: 5300799270362101741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_70
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 222
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca44cf37f2b0e448e5cd2184326f95
+      internalID: -1011445185968826431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 197
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95880f81fea9d4b95636f29762bbfe
+      internalID: -7117328875536380361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_72
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 201
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378c5b4cd0943141bbfec582fbe0a61
+      internalID: -6144488562492434825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce3afef0f536e4eaef432f61320dc9
+      internalID: 6135792643850254180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_74
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 180
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ce97484fcc264b92e1e1fd808d81b
+      internalID: -4830008458465542722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_75
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 155
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e2a1d7ec474242be99ad805ca5ae4
+      internalID: 7483002184585096820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 160
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107c882e7637ce429c50619cf181bff
+      internalID: -941859797148609602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_77
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 135
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c32091e6487c4798f581230dcda7f
+      internalID: -4036770486228742893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_78
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 139
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15990766eee6d704bbb4c3ea99b8c6d6
+      internalID: -8156843536214167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 114
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab82d1ff1822d479168a49ce5578ca
+      internalID: -5918923234801938313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_80
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 118
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152324ed589ea0048973ba861fe63d00
+      internalID: 2523268168370880415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 93
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d20e682ae6e9c044be43870f7174ffe
+      internalID: 1452716618694860232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 97
+        width: 325
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e174dc9f49ebb946ac241768ae280c6
+      internalID: -8431921066500828705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_83
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 325
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f8f7976fe9b146adb66693d58cea4
+      internalID: 630633445190323723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempo_84
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 55
+        width: 325
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd4a22bd04f9b4fb2e7f1bed8af3cb
+      internalID: 2642595566207892142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 31f2c8475cad6a948bf784f431615ee7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
