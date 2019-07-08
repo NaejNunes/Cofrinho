@@ -1,0 +1,1382 @@
+fileFormatVersion: 2
+guid: 0c084e1831af90b4bbff1a38cb612f1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7770802090695141384
+    second: AssetsCofrinho_0
+  - first:
+      213: -8018068870237823536
+    second: AssetsCofrinho_1
+  - first:
+      213: -3322418061311117274
+    second: AssetsCofrinho_2
+  - first:
+      213: 6705065990153331643
+    second: AssetsCofrinho_3
+  - first:
+      213: 7264644141113549637
+    second: AssetsCofrinho_4
+  - first:
+      213: 441898399909528243
+    second: AssetsCofrinho_5
+  - first:
+      213: 1318472778130712632
+    second: AssetsCofrinho_6
+  - first:
+      213: -6431239393202420024
+    second: AssetsCofrinho_7
+  - first:
+      213: 7916886471825624796
+    second: AssetsCofrinho_8
+  - first:
+      213: 1612102518904582636
+    second: AssetsCofrinho_9
+  - first:
+      213: 6975240200673265797
+    second: AssetsCofrinho_10
+  - first:
+      213: -649958100892895385
+    second: AssetsCofrinho_11
+  - first:
+      213: 6046887221188209787
+    second: AssetsCofrinho_12
+  - first:
+      213: -5782994945146293415
+    second: AssetsCofrinho_13
+  - first:
+      213: -6158466187793097348
+    second: AssetsCofrinho_14
+  - first:
+      213: -2690759904514780109
+    second: AssetsCofrinho_15
+  - first:
+      213: -2077020180604404817
+    second: AssetsCofrinho_16
+  - first:
+      213: 6440101935820127361
+    second: AssetsCofrinho_17
+  - first:
+      213: -6030102806662946310
+    second: AssetsCofrinho_18
+  - first:
+      213: -8756513088114546106
+    second: AssetsCofrinho_19
+  - first:
+      213: -8301139277307811295
+    second: AssetsCofrinho_20
+  - first:
+      213: -3968104357666869885
+    second: AssetsCofrinho_21
+  - first:
+      213: -8181384194031487142
+    second: AssetsCofrinho_22
+  - first:
+      213: -3623808296682564510
+    second: AssetsCofrinho_23
+  - first:
+      213: 8852762718572184226
+    second: AssetsCofrinho_24
+  - first:
+      213: 5102959472700735067
+    second: AssetsCofrinho_25
+  - first:
+      213: 3470713567911658839
+    second: AssetsCofrinho_26
+  - first:
+      213: -7316013873421348506
+    second: AssetsCofrinho_27
+  - first:
+      213: -7618828301647803758
+    second: AssetsCofrinho_28
+  - first:
+      213: -8336146048171203420
+    second: AssetsCofrinho_29
+  - first:
+      213: 3123194763941503125
+    second: AssetsCofrinho_30
+  - first:
+      213: -3850805838753742555
+    second: AssetsCofrinho_31
+  - first:
+      213: 7323567404813199625
+    second: AssetsCofrinho_32
+  - first:
+      213: 2676146149268551738
+    second: AssetsCofrinho_33
+  - first:
+      213: 115212505852988685
+    second: AssetsCofrinho_34
+  - first:
+      213: 7229254883374055887
+    second: AssetsCofrinho_35
+  - first:
+      213: 4013539682419242241
+    second: AssetsCofrinho_36
+  - first:
+      213: -2119585473663433514
+    second: AssetsCofrinho_37
+  - first:
+      213: 1190551479834694332
+    second: AssetsCofrinho_38
+  - first:
+      213: -4356840819445796163
+    second: AssetsCofrinho_39
+  - first:
+      213: -8840008921704050404
+    second: AssetsCofrinho_40
+  - first:
+      213: -1646430860437831661
+    second: AssetsCofrinho_41
+  - first:
+      213: -5928016320183827494
+    second: AssetsCofrinho_42
+  - first:
+      213: 1343662320555950876
+    second: AssetsCofrinho_43
+  - first:
+      213: 6717212580184250971
+    second: AssetsCofrinho_44
+  - first:
+      213: 2701498888400325438
+    second: AssetsCofrinho_45
+  - first:
+      213: -1542747364122120625
+    second: AssetsCofrinho_46
+  - first:
+      213: -3942876883808308145
+    second: AssetsCofrinho_93
+  - first:
+      213: 7525625373422582559
+    second: AssetsCofrinho_47
+  - first:
+      213: 7655802592769345353
+    second: AssetsCofrinho_48
+  - first:
+      213: -3147554468135977805
+    second: AssetsCofrinho_49
+  - first:
+      213: 3275869111318535226
+    second: AssetsCofrinho_50
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetsCofrinho_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 783
+        width: 240
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcc61cf8d47e9640bced3a21c5b6b31
+      internalID: -7770802090695141384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 963
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56c29a9c0ad634fbea7ff32fe26ccb
+      internalID: -8018068870237823536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 963
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de520ccf3a25b84592cd97f209008bc
+      internalID: -3322418061311117274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 963
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4724e27e9b5c48b6469b29ddf1ce2
+      internalID: 6705065990153331643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 963
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723ad3d59890fd44b77ab236615944e
+      internalID: 7264644141113549637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 963
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d289ecd127b964ea2e12b084438b40
+      internalID: 441898399909528243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 963
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2627f07f25f8cd48bf80d5f0e4daa29
+      internalID: 1318472778130712632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 963
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76606f3b92bab9d4a8609e42b0722636
+      internalID: -6431239393202420024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_8
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 963
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a03ec68bb7215741b86bd036f61ce82
+      internalID: 7916886471825624796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_9
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 963
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8f76f0a908ce74891b12a6fd21c97d
+      internalID: 1612102518904582636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 898
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e67618a95997bf4585c29b809007643
+      internalID: 6975240200673265797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 898
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d27546c048d0f94b9599c049d061e7f
+      internalID: -649958100892895385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 898
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad17cd96974d4b44ae22cc397b250c5
+      internalID: 6046887221188209787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 898
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82cd2537bbb87448bc659ff7608bd8
+      internalID: -5782994945146293415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 898
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa98ac9d732c649b63fd410e0c42ed
+      internalID: -6158466187793097348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 898
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77288195a52cd96478b87489d365a5ad
+      internalID: -2690759904514780109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 898
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59789179365992d488ce3c4922502b01
+      internalID: -2077020180604404817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 898
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d923cf6cff8e14aa72ae69363e9f8d
+      internalID: 6440101935820127361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 898
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad0d291dda95545930836cb9dd2058
+      internalID: -6030102806662946310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 833
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9851e985bb9814a9f6ddf0675433c1
+      internalID: -8756513088114546106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 833
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61778be3b19a04786563b6309e890f
+      internalID: -8301139277307811295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 833
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383eca530e2d704188c93819e7d42e7
+      internalID: -3968104357666869885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 833
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004a2606b851d84daf4f6281b294a1c
+      internalID: -8181384194031487142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 833
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38483449a197724a8aa20e1133b81d5
+      internalID: -3623808296682564510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_24
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 833
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799d677f81e77246869ef46d9508665
+      internalID: 8852762718572184226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df01ea935f6ed4a9c6e712178d3123
+      internalID: 5102959472700735067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 833
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15a68617c87df147a00ecc8f40930c6
+      internalID: 3470713567911658839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_27
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 833
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad112fc77ea1ff49bf2afb75be49424
+      internalID: -7316013873421348506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 769
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60bea04c2ed654cb017a4852fd52fb
+      internalID: -7618828301647803758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 769
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65585eda881d8b40aaad86b9913f71e
+      internalID: -8336146048171203420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 769
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e625defe0eff49b6177c4007c33f6
+      internalID: 3123194763941503125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 769
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c37e44d9c47f04c892255e02c92113
+      internalID: -3850805838753742555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_32
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 769
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a80e4469aa71c448197abe236cd0c2
+      internalID: 7323567404813199625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_33
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 769
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2f0e59728a7a849bac650f6b966bfa
+      internalID: 2676146149268551738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_34
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 769
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2747e611583e43afec550a11b8e83
+      internalID: 115212505852988685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_35
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 769
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381941e207e76784f88cc25b0a071345
+      internalID: 7229254883374055887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_36
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 769
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c22cf61ab560844a2faeff36f70593
+      internalID: 4013539682419242241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 702
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960847457ef6e5d4a82d4bf70d3921dc
+      internalID: -2119585473663433514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 702
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e1d77ed9203443b4aa489d49892a5
+      internalID: 1190551479834694332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 702
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019d5ef945b3194ab2326f9a3e578fa
+      internalID: -4356840819445796163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 525
+        width: 238
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1374e744b66f4fb454e746e185a05
+      internalID: -8840008921704050404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_41
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 529
+        width: 241
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991686f266f21c44bba111f4581121b
+      internalID: -1646430860437831661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_42
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 668
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e8dfdb80afa449a4c66082f50d2ad
+      internalID: -5928016320183827494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_43
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 599
+        width: 87
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d11116bc047e744800e6a22d6af81b
+      internalID: 1343662320555950876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 632
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac5ee09b47ad14dbf46e8b8f59aa56
+      internalID: 6717212580184250971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 527
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35f26f756983c4fac5afca7e3a4880
+      internalID: 2701498888400325438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 527
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfe88bf2a265342ae00dbc52c95a5d
+      internalID: -1542747364122120625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_93
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 111
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb4bf86ec8e0f43ad00f80c5cbd1ae
+      internalID: -3942876883808308145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 252
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96692d355e96c24ea56e4a4178517a1
+      internalID: 7525625373422582559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 266
+        width: 198
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699ac56aaf69244cbfdbff18ca2c611
+      internalID: 7655802592769345353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_49
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 289
+        width: 137
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6bd053e9c55af4bac134270d954b09
+      internalID: -3147554468135977805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsCofrinho_50
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 333
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ab454368ff6a479ad5907d7437735
+      internalID: 3275869111318535226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 491bbe2dcd6e2b148971c9f7352bbbdf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
