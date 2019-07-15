@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Moeda1
   - DestinoMoeda
+  - Moeda20
   layers:
   - Default
   - TransparentFX

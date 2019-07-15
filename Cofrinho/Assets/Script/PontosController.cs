@@ -33,5 +33,10 @@ public class PontosController : MonoBehaviour
         {
             moedasQTD += 1;
         }
+
+        if (collision.gameObject.CompareTag("Moeda20"))
+        {
+            moedasQTD += 20;
+        }
     }
 }
