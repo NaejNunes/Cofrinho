@@ -44,6 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc40afc43477a5f4bace5f44e6c15b6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  qtdMax: 3
   txtMoedasQTD: {fileID: 0}
   moedaHUD: []
 --- !u!61 &8214825607753881027

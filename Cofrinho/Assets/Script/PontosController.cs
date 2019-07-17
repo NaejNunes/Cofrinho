@@ -1,29 +1,35 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PontosController : MonoBehaviour
 {
-    private int moedasQTD;
+    private int moedasQTD, qtdErro;
+
+    public int qtdMax, CondicaoVitoria;
 
     public Text txtMoedasQTD;
 
-    public GameObject[] moedaHUD;
     // Start is called before the first frame update
     void Start()
     {
-        
+        qtdErro = 3;
     }
 
     // Update is called once per frame
     void Update()
     {
-        txtMoedasQTD.text = "" + moedasQTD + "/60";
+        txtMoedasQTD.text = "" + moedasQTD +"/"+ qtdMax;
 
-        if (moedasQTD > 60)
+        if (moedasQTD == CondicaoVitoria)
         {
-            
+            SceneManager.LoadScene("Fase2");
+        }
+        if (moedasQTD > qtdMax)
+        {
+            SceneManager.LoadScene("Menu");
         }
     }
 
