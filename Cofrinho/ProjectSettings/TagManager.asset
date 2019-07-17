@@ -4,9 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Moeda1
   - DestinoMoeda
-  - Moeda20
+  - AdMoeda1
+  - AdMoeda2
+  - AdMoeda3
+  - AdMoeda4
+  - AdMoeda5
+  - AdMoeda6
+  - AdMoeda7
+  - AdMoeda8
+  - AdMoeda9
+  - AdMoeda10
   layers:
   - Default
   - TransparentFX

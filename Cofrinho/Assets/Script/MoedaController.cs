@@ -66,7 +66,7 @@ public class MoedaController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("DestinoMoeda"))
         {
-            animacao.SetBool("DestroirMoeda", true);
+            animacao.SetBool("DestroiMoeda", true);
             animacaoAtiva = true;               
         }
     }
