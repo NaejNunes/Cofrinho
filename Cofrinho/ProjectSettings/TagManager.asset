@@ -24,7 +24,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - FimDeJogo
   - 
   - 
   - 
@@ -54,4 +54,13 @@ TagManager:
     locked: 0
   - name: HUD
     uniqueID: 1123591717
+    locked: 0
+  - name: FimDeJogo
+    uniqueID: 826012153
+    locked: 0
+  - name: CofrinhoPorco
+    uniqueID: 1715535739
+    locked: 0
+  - name: Moeda
+    uniqueID: 2163656033
     locked: 0

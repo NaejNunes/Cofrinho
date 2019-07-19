@@ -12,6 +12,8 @@ public class PontosController : MonoBehaviour
 
     public Text txtMoedasQTD;
 
+    public GameObject fimDeJogo;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +31,7 @@ public class PontosController : MonoBehaviour
         }
         if (moedasQTD > qtdMax)
         {
-            SceneManager.LoadScene("Menu");
+            fimDeJogo.SetActive(true);
         }
     }
 
