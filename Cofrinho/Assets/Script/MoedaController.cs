@@ -13,6 +13,10 @@ public class MoedaController : MonoBehaviour
     public float speed;
 
     private Animator animacao;
+
+    public AudioClip efeitoMoeda, efeitoEstrela;
+
+   // public AudioClip efeitoMoeda, efeitoEstrela;
     // Start is called before the first frame update
     void Start()
     {
@@ -66,6 +70,8 @@ public class MoedaController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("DestinoMoeda"))
         {
+           // efeitoEstrela.Play();
+            //efeitoMoeda.Play();
             animacao.SetBool("DestroiMoeda", true);
             animacaoAtiva = true;               
         }
