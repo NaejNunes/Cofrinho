@@ -14,7 +14,7 @@ public class PontosController : MonoBehaviour
 
     public GameObject fimDeJogo;
 
-    public TempoController tempoCon;
+    public AudioClip audioError;
 
     // Start is called before the first frame update
     void Start()
@@ -33,9 +33,9 @@ public class PontosController : MonoBehaviour
         }
         if (moedasQTD > qtdMax)
         {
+            AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
             Time.timeScale = 0;
-            fimDeJogo.SetActive(true);
-            tempoCon.segundos = 0;
+            fimDeJogo.SetActive(true);          
         }
         else
         {
