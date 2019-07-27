@@ -32,8 +32,6 @@ public class MoedaController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(segundos + ":" + milesimos);
-
         if (moedaEscolhida == true)
         {
             if (transform.position != wayPoints[cur].position)

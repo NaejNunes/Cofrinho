@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class PontosController : MonoBehaviour
 {
-    private int moedasQTD, qtdErro;
+    private int moedasQTD;
 
     public int qtdMax, CondicaoVitoria;
 
@@ -14,10 +14,12 @@ public class PontosController : MonoBehaviour
 
     public GameObject fimDeJogo;
 
+    public TempoController tempoCon;
+
     // Start is called before the first frame update
     void Start()
     {
-        qtdErro = 3;
+        
     }
 
     // Update is called once per frame
@@ -31,7 +33,13 @@ public class PontosController : MonoBehaviour
         }
         if (moedasQTD > qtdMax)
         {
+            Time.timeScale = 0;
             fimDeJogo.SetActive(true);
+            tempoCon.segundos = 0;
+        }
+        else
+        {
+            Time.timeScale = 1;
         }
     }
 

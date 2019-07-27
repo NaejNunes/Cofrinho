@@ -653,6 +653,16 @@ PrefabInstance:
       propertyPath: wayPoints.Array.data[0]
       value: 
       objectReference: {fileID: 569454621}
+    - target: {fileID: 1855725018755714313, guid: 52fbd20b696e2fd41aa06cd05f9748a7,
+        type: 3}
+      propertyPath: efeitoEstrela
+      value: 
+      objectReference: {fileID: 8300000, guid: 47e1f683fe1b58d479bef60e84451be6, type: 3}
+    - target: {fileID: 1855725018755714313, guid: 52fbd20b696e2fd41aa06cd05f9748a7,
+        type: 3}
+      propertyPath: efeitoMoeda
+      value: 
+      objectReference: {fileID: 8300000, guid: 51993a745d799864dbc8413a1ba1cfc8, type: 3}
     - target: {fileID: 1855725018755714315, guid: 52fbd20b696e2fd41aa06cd05f9748a7,
         type: 3}
       propertyPath: m_SortingOrder
@@ -2590,6 +2600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   segundos: 30
   milesimos: 0
+  PontosCon: {fileID: 0}
 --- !u!1001 &8214825608258184668
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2597,6 +2608,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 435434280}
     m_Modifications:
+    - target: {fileID: 8214825607753881024, guid: bf819c2eca6993e4da371bd67899c978,
+        type: 3}
+      propertyPath: m_Name
+      value: DestinoMoeda
+      objectReference: {fileID: 0}
     - target: {fileID: 8214825607753881025, guid: bf819c2eca6993e4da371bd67899c978,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2651,11 +2667,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8214825607753881024, guid: bf819c2eca6993e4da371bd67899c978,
-        type: 3}
-      propertyPath: m_Name
-      value: DestinoMoeda
       objectReference: {fileID: 0}
     - target: {fileID: 8214825607753881026, guid: bf819c2eca6993e4da371bd67899c978,
         type: 3}

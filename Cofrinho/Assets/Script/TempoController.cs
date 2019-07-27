@@ -6,7 +6,9 @@ using UnityEngine.UI;
 
 public class TempoController : MonoBehaviour
 {
-    public int segundos, milesimos;    
+    public int segundos, milesimos;
+
+    public PontosController PontosCon;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +18,17 @@ public class TempoController : MonoBehaviour
 
     // Update is called once per frame
     void Update()
+    {
+        Tempo();
+
+        if (Time.timeScale == 0)
+        {
+            segundos = 0;
+            milesimos = 0;
+        }
+    }
+
+    public void Tempo()
     {
         milesimos -= 1;
 
@@ -31,6 +44,6 @@ public class TempoController : MonoBehaviour
         }
 
         var sliderTempo = transform.GetChild(0).GetComponentInChildren<Slider>();
-        sliderTempo.value = segundos;
+        sliderTempo.value = segundos;    
     }
 }
