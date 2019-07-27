@@ -8,8 +8,6 @@ public class TempoController : MonoBehaviour
 {
     public int segundos, milesimos;
 
-     PontosController PontosCon;
-
     // Start is called before the first frame update
     void Start()
     {

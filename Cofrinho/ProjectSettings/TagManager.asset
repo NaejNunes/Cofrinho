@@ -15,6 +15,16 @@ TagManager:
   - AdMoeda8
   - AdMoeda9
   - AdMoeda10
+  - SubMoeda1
+  - SubMoeda2
+  - SubMoeda3
+  - SubMoeda4
+  - SubMoeda5
+  - SubMoeda6
+  - SubMoeda7
+  - SubMoeda8
+  - SubMoeda9
+  - SubMoeda10
   layers:
   - Default
   - TransparentFX

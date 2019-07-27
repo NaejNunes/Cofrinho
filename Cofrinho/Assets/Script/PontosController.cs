@@ -33,13 +33,19 @@ public class PontosController : MonoBehaviour
         }
         if (moedasQTD > qtdMax)
         {
+            moedasQTD = -1;           
             AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
-            Time.timeScale = 0;
-            fimDeJogo.SetActive(true);          
+            fimDeJogo.SetActive(true);            
         }
         else
         {
             Time.timeScale = 1;
+
+        }
+         if (moedasQTD == -1)
+        {
+            Time.timeScale = 0;
+            txtMoedasQTD.text = "0" + "/" + qtdMax;
         }
     }
 
@@ -93,6 +99,56 @@ public class PontosController : MonoBehaviour
         if (collision.gameObject.CompareTag("AdMoeda10"))
         {
             moedasQTD += 10;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda1"))
+        {
+            moedasQTD -= 1;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda2"))
+        {
+            moedasQTD -= 2;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda3"))
+        {
+            moedasQTD -= 3;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda4"))
+        {
+            moedasQTD -= 4;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda5"))
+        {
+            moedasQTD -= 5;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda6"))
+        {
+            moedasQTD -= 6;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda7"))
+        {
+            moedasQTD -= 7;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda8"))
+        {
+            moedasQTD -= 8;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda9"))
+        {
+            moedasQTD -= 9;
+        }
+
+        if (collision.gameObject.CompareTag("SubMoeda10"))
+        {
+            moedasQTD -= 10;
         }
     }
 }
