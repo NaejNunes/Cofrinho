@@ -70,10 +70,10 @@ public class MoedaController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("DestinoMoeda"))
         {
-           // efeitoEstrela.Play();
-            //efeitoMoeda.Play();
             animacao.SetBool("DestroiMoeda", true);
-            animacaoAtiva = true;               
+            animacaoAtiva = true;
+            AudioSource.PlayClipAtPoint(efeitoEstrela, Camera.main.transform.position * Time.deltaTime);
+            AudioSource.PlayClipAtPoint(efeitoMoeda, Camera.main.transform.position * Time.deltaTime);
         }
     }
 }
