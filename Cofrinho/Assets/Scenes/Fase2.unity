@@ -2607,6 +2607,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 435434280}
     m_Modifications:
+    - target: {fileID: 8214825607753881024, guid: bf819c2eca6993e4da371bd67899c978,
+        type: 3}
+      propertyPath: m_Name
+      value: DestinoMoeda
+      objectReference: {fileID: 0}
     - target: {fileID: 8214825607753881025, guid: bf819c2eca6993e4da371bd67899c978,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2662,11 +2667,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8214825607753881024, guid: bf819c2eca6993e4da371bd67899c978,
-        type: 3}
-      propertyPath: m_Name
-      value: DestinoMoeda
-      objectReference: {fileID: 0}
     - target: {fileID: 8214825607753881026, guid: bf819c2eca6993e4da371bd67899c978,
         type: 3}
       propertyPath: moedaHud.Array.size
@@ -2707,10 +2707,5 @@ PrefabInstance:
       propertyPath: audioError
       value: 
       objectReference: {fileID: 8300000, guid: 896ffa5ac882cf24b86622f7345a1dbd, type: 3}
-    - target: {fileID: 8214825607753881026, guid: bf819c2eca6993e4da371bd67899c978,
-        type: 3}
-      propertyPath: audioVictory
-      value: 
-      objectReference: {fileID: 8300000, guid: caa91285f2783424da76dd912f89b3f1, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf819c2eca6993e4da371bd67899c978, type: 3}
