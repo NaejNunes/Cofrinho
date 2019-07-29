@@ -3,40 +3,23 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class CenasController : MonoBehaviour
-{
-
+public class TrocaFase : MonoBehaviour
+{   
+    public string nomeFase;
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        
     }
 
     public void OnMouseDown()
     {
-
+        SceneManager.LoadScene(nomeFase);
     }
-
-    public void Inicio()
-    {
-        SceneManager.LoadScene("Inicio");
-    }
-
-    public void Jogar()
-    {
-        SceneManager.LoadScene("Fase1");
-    }
-
-    public void Sair()
-    {
-        //Application.Quit;
-    }
-
-  
 }
