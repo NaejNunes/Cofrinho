@@ -36,11 +36,6 @@ public class TempoController : MonoBehaviour
             milesimos = 60;
         }
 
-        if (segundos <= 0)
-        {
-            SceneManager.LoadScene("Menu");
-        }
-
         var sliderTempo = transform.GetChild(0).GetComponentInChildren<Slider>();
         sliderTempo.value = segundos;    
     }
