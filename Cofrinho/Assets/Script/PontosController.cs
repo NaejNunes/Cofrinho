@@ -39,9 +39,7 @@ public class PontosController : MonoBehaviour
             Time.timeScale = 0;
             fimDeJogo.SetActive(true);
             moedasQTD = -1;
-            vitoria = true;
-            TempoCon.segundos = 0;
-            TempoCon.milesimos = 0;
+            vitoria = true;          
         }
 
         if (moedasQTD == -1)

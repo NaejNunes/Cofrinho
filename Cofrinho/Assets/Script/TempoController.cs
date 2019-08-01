@@ -8,7 +8,9 @@ public class TempoController : MonoBehaviour
 {
     public int segundos, milesimos;
 
-     PontosController pontosCon;
+    PontosController pontosCon;
+
+    public AudioClip efeitoFimTempo;
 
     // Start is called before the first frame update
     void Start()
@@ -23,6 +25,8 @@ public class TempoController : MonoBehaviour
 
         if (segundos == 0)
         {
+            AudioSource.PlayClipAtPoint(efeitoFimTempo, Camera.main.transform.position * Time.deltaTime);
+
             SceneManager.LoadScene("Menu");
         }
 
