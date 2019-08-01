@@ -18,10 +18,14 @@ public class PontosController : MonoBehaviour
 
     TempoController TempoCon;
 
+    public bool vitoria;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        vitoria = false;
     }
 
     // Update is called once per frame
@@ -35,8 +39,9 @@ public class PontosController : MonoBehaviour
             Time.timeScale = 0;
             fimDeJogo.SetActive(true);
             moedasQTD = -1;
+            vitoria = true;
+            TempoCon.segundos = 0;
             TempoCon.milesimos = 0;
-            TempoCon.segundos = 0;           
         }
 
         if (moedasQTD == -1)
@@ -47,7 +52,8 @@ public class PontosController : MonoBehaviour
         {
             moedasQTD = -1;           
             AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
-            fimDeJogo.SetActive(true);            
+            fimDeJogo.SetActive(true);
+            SceneManager.LoadScene("Menu");
         }
         else
         {

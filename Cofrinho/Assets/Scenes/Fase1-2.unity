@@ -1109,7 +1109,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2061567191}
         m_MethodName: TrocarFase
         m_Mode: 1
         m_Arguments:
@@ -1168,11 +1168,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1729707609}
     m_Modifications:
-    - target: {fileID: 2678776379784827913, guid: 72a6612c72563224f96aa6ca6d661e62,
-        type: 3}
-      propertyPath: m_Name
-      value: ADMoeda3
-      objectReference: {fileID: 0}
     - target: {fileID: 2678776379784827915, guid: 72a6612c72563224f96aa6ca6d661e62,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1227,6 +1222,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2678776379784827913, guid: 72a6612c72563224f96aa6ca6d661e62,
+        type: 3}
+      propertyPath: m_Name
+      value: ADMoeda3
       objectReference: {fileID: 0}
     - target: {fileID: 2678776379784827914, guid: 72a6612c72563224f96aa6ca6d661e62,
         type: 3}
@@ -1970,7 +1970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6ea4f49d2c681d44a3cf80ea42cae58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeFase: Fase1-2
+  nomeFase: Fase1-3
 --- !u!1 &2084885914
 GameObject:
   m_ObjectHideFlags: 0
@@ -2024,11 +2024,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 435434280}
     m_Modifications:
-    - target: {fileID: 8214825607753881024, guid: bf819c2eca6993e4da371bd67899c978,
-        type: 3}
-      propertyPath: m_Name
-      value: DestinoMoeda
-      objectReference: {fileID: 0}
     - target: {fileID: 8214825607753881025, guid: bf819c2eca6993e4da371bd67899c978,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2083,6 +2078,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8214825607753881024, guid: bf819c2eca6993e4da371bd67899c978,
+        type: 3}
+      propertyPath: m_Name
+      value: DestinoMoeda
       objectReference: {fileID: 0}
     - target: {fileID: 8214825607753881026, guid: bf819c2eca6993e4da371bd67899c978,
         type: 3}

@@ -8,6 +8,8 @@ public class TempoController : MonoBehaviour
 {
     public int segundos, milesimos;
 
+     PontosController pontosCon;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -17,7 +19,12 @@ public class TempoController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Tempo();
+        Tempo();       
+
+        if (segundos == 0)
+        {
+            SceneManager.LoadScene("Menu");
+        }
 
         if (Time.timeScale == 0)
         {
