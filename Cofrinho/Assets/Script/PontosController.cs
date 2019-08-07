@@ -12,20 +12,20 @@ public class PontosController : MonoBehaviour
 
     public Text txtMoedasQTD;
 
-    public GameObject fimDeJogo;
+    public GameObject vitoria, derrota;
 
     public AudioClip audioError, audioVictory;
 
     TempoController TempoCon;
 
-    public bool vitoria;
+    public bool vitoriacondicao;
 
 
 
     // Start is called before the first frame update
     void Start()
     {
-        vitoria = false;
+        vitoriacondicao = false;
     }
 
     // Update is called once per frame
@@ -37,9 +37,9 @@ public class PontosController : MonoBehaviour
         {
             AudioSource.PlayClipAtPoint(audioVictory, Camera.main.transform.position * Time.deltaTime);
             Time.timeScale = 0;
-            fimDeJogo.SetActive(true);
+            vitoria.SetActive(true);
             moedasQTD = -1;
-            vitoria = true;          
+            vitoriacondicao = true;          
         }
 
         if (moedasQTD == -1)
@@ -50,8 +50,7 @@ public class PontosController : MonoBehaviour
         {
             moedasQTD = -1;           
             AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
-            fimDeJogo.SetActive(true);
-            SceneManager.LoadScene("Menu");
+            derrota.SetActive(true);        
         }
         else
         {

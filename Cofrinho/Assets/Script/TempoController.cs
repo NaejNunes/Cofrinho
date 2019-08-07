@@ -26,8 +26,8 @@ public class TempoController : MonoBehaviour
         if (segundos == 0)
         {
             AudioSource.PlayClipAtPoint(efeitoFimTempo, Camera.main.transform.position * Time.deltaTime);
-
-            SceneManager.LoadScene("Menu");
+            pontosCon.derrota.SetActive(true);
+            Time.timeScale = 0;
         }
 
         if (Time.timeScale == 0)

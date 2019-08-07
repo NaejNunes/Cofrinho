@@ -23,5 +23,20 @@ public class TrocaFase : MonoBehaviour
     {
         SceneManager.LoadScene(nomeFase);
     }
+
+    public void PlayGame()
+    {
+        SceneManager.LoadScene("Fase1-1");
+    }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
+
+    public void Home()
+    {
+        SceneManager.LoadScene("Menu");
+    }
    
 }
