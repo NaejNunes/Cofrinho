@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class PontosController : MonoBehaviour
 {
-    private int moedasQTD;
+    public int moedasQTD;
 
     public int qtdMax, CondicaoVitoria;
 
