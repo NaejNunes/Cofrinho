@@ -8,7 +8,7 @@ public class PontosController : MonoBehaviour
 {
     public int moedasQTD;
 
-    public int qtdMax, CondicaoVitoria;
+    public int qtdMax, condicaoVitoria;
 
     public Text txtMoedasQTD;
 
@@ -18,7 +18,7 @@ public class PontosController : MonoBehaviour
 
     TempoController TempoCon;
 
-    public bool vitoriacondicao;
+    public bool vitoriacondicao, soma, subtracao, multiplicacao, divisao, condicaoSubtracao;
 
 
 
@@ -26,6 +26,8 @@ public class PontosController : MonoBehaviour
     void Start()
     {
         vitoriacondicao = false;
+
+        condicaoSubtracao = false;
     }
 
     // Update is called once per frame
@@ -33,7 +35,7 @@ public class PontosController : MonoBehaviour
     {
         txtMoedasQTD.text = "" + moedasQTD +"/"+ qtdMax;
 
-        if (moedasQTD == CondicaoVitoria)
+        if (moedasQTD == condicaoVitoria && soma == true)
         {
             AudioSource.PlayClipAtPoint(audioVictory, Camera.main.transform.position * Time.deltaTime);
             Time.timeScale = 0;
@@ -42,23 +44,40 @@ public class PontosController : MonoBehaviour
             vitoriacondicao = true;          
         }
 
-        if (moedasQTD == -1)
+        else if (moedasQTD == condicaoVitoria && subtracao == true)
         {
+            AudioSource.PlayClipAtPoint(audioVictory, Camera.main.transform.position * Time.deltaTime);
             Time.timeScale = 0;
+            vitoria.SetActive(true);
+            condicaoSubtracao = true;
+            vitoriacondicao = true;
         }
-        if (moedasQTD > qtdMax)
+
+        if (soma == true && moedasQTD > qtdMax  ) 
         {
             moedasQTD = -1;           
             AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
             derrota.SetActive(true);        
         }
+        else if (subtracao == true && moedasQTD < qtdMax  )
+        {
+            condicaoSubtracao = true;
+            AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
+            derrota.SetActive(true);
+        }
         else
         {
             Time.timeScale = 1;
-
         }
-         if (moedasQTD == -1)
+
+         if (moedasQTD == -1 && soma == true)
         {
+            Time.timeScale = 0;
+            txtMoedasQTD.text = "0" + "/" + qtdMax;
+        }
+        else if (condicaoSubtracao == true && subtracao == true)
+        {
+            moedasQTD = 1;
             Time.timeScale = 0;
             txtMoedasQTD.text = "0" + "/" + qtdMax;
         }

@@ -427,7 +427,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &155808846
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -560,7 +559,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &163255926
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1119,7 +1117,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &863204364
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1381,7 +1378,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1043925275
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1456,7 +1452,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1117696216
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1531,7 +1526,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1224906049
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1664,7 +1658,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1329011655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1739,7 +1732,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1338238700
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2419,7 +2411,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1959248662
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2784,5 +2775,15 @@ PrefabInstance:
       propertyPath: derrota
       value: 
       objectReference: {fileID: 2135398562}
+    - target: {fileID: 8214825607753881026, guid: bf819c2eca6993e4da371bd67899c978,
+        type: 3}
+      propertyPath: soma
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8214825607753881026, guid: bf819c2eca6993e4da371bd67899c978,
+        type: 3}
+      propertyPath: condicaoVitoria
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf819c2eca6993e4da371bd67899c978, type: 3}
