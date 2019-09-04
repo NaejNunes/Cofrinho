@@ -25,6 +25,16 @@ TagManager:
   - SubMoeda8
   - SubMoeda9
   - SubMoeda10
+  - MPMoeda1
+  - MPMoeda2
+  - MPMoeda3
+  - MPMoeda4
+  - MPMoeda5
+  - MPMoeda6
+  - MPMoeda7
+  - MPMoeda8
+  - MPMoeda9
+  - MPMoeda10
   layers:
   - Default
   - TransparentFX
