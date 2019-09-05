@@ -102,6 +102,8 @@ MonoBehaviour:
   speed: 0.3
   efeitoMoeda: {fileID: 8300000, guid: 51993a745d799864dbc8413a1ba1cfc8, type: 3}
   efeitoEstrela: {fileID: 8300000, guid: 47e1f683fe1b58d479bef60e84451be6, type: 3}
+  AuxiliarMultiplic: {fileID: 1303398509402325271, guid: 1ad87463b3e2dbc41955faf53ad19f59,
+    type: 3}
 --- !u!50 &8730667052575739636
 Rigidbody2D:
   serializedVersion: 4

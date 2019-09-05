@@ -1079,6 +1079,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 431966431550525695, guid: e9d521a881619a440a646cc2a4414b2b,
+        type: 3}
+      propertyPath: wayPoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 569454621}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9d521a881619a440a646cc2a4414b2b, type: 3}
 --- !u!4 &881851398 stripped
@@ -1388,6 +1393,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2866538247342886783, guid: 5fd7f7af4d98f5641839c158fc661ba9,
+        type: 3}
+      propertyPath: wayPoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 569454621}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fd7f7af4d98f5641839c158fc661ba9, type: 3}
 --- !u!4 &1275125240 stripped
@@ -1463,6 +1473,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8730667052575739637, guid: be79ead97d60ec5468a70e54454f2a23,
+        type: 3}
+      propertyPath: wayPoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 569454621}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: be79ead97d60ec5468a70e54454f2a23, type: 3}
 --- !u!4 &1360404781 stripped
@@ -2474,7 +2489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6ea4f49d2c681d44a3cf80ea42cae58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nomeFase: Fase3-3
+  nomeFase: Fase3-4
 --- !u!1 &2084885914
 GameObject:
   m_ObjectHideFlags: 0

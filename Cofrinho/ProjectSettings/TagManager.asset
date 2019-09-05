@@ -35,6 +35,7 @@ TagManager:
   - MPMoeda8
   - MPMoeda9
   - MPMoeda10
+  - AuxiMultiplic
   layers:
   - Default
   - TransparentFX

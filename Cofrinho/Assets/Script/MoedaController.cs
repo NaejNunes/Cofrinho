@@ -16,6 +16,10 @@ public class MoedaController : MonoBehaviour
 
     public AudioClip efeitoMoeda, efeitoEstrela;
 
+    PontosController pontosControl;
+
+    public GameObject AuxiliarMultiplic;
+
    // public AudioClip efeitoMoeda, efeitoEstrela;
     // Start is called before the first frame update
     void Start()
@@ -72,6 +76,13 @@ public class MoedaController : MonoBehaviour
             animacaoAtiva = true;
             AudioSource.PlayClipAtPoint(efeitoEstrela, Camera.main.transform.position * Time.deltaTime);
             AudioSource.PlayClipAtPoint(efeitoMoeda, Camera.main.transform.position * Time.deltaTime);
+        }
+
+        if (collision.gameObject.CompareTag("AuxiMultiplic") && pontosControl.multiplicacao == true)
+        {
+            pontosControl.txtMoedasQTD.text = pontosControl.moedasQTD + "/" + pontosControl.qtdMax;
+            pontosControl.moedasQTD = 1;
+            AuxiliarMultiplic.SetActive(false);
         }
     }
 }
