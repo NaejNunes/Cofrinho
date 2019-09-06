@@ -40,6 +40,10 @@ public class PontosController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (multiplicacao == true && moedasQTD > 1)
+        {
+            txtMoedasQTD.text = moedasQTD + "/" + qtdMax; 
+        }
         if(soma == true || subtracao == true)
         {
             txtMoedasQTD.text = "" + moedasQTD + "/" + qtdMax;
@@ -51,7 +55,7 @@ public class PontosController : MonoBehaviour
             Time.timeScale = 0;
             vitoria.SetActive(true);
             moedasQTD = -1;
-            vitoriacondicao = true;          
+            vitoriacondicao = true;
         }
 
         else if (moedasQTD == condicaoVitoria && subtracao == true)
@@ -63,9 +67,17 @@ public class PontosController : MonoBehaviour
             vitoriacondicao = true;
         }
 
+        else if (moedasQTD == condicaoVitoria && multiplicacao == true)
+        {
+            AudioSource.PlayClipAtPoint(audioVictory, Camera.main.transform.position * Time.deltaTime);
+            Time.timeScale = 0;
+            vitoria.SetActive(true);
+            moedasQTD = -1;
+            vitoriacondicao = true;
+        }
        
 
-        if (soma == true && moedasQTD > qtdMax  ) 
+        if (soma == true && moedasQTD > qtdMax || multiplicacao == true && moedasQTD > qtdMax ) 
         {
             moedasQTD = -1;           
             AudioSource.PlayClipAtPoint(audioError, Camera.main.transform.position * Time.deltaTime);
@@ -82,7 +94,7 @@ public class PontosController : MonoBehaviour
             Time.timeScale = 1;
         }
 
-         if (moedasQTD == -1 && soma == true)
+         if (moedasQTD == -1 && soma == true || moedasQTD == -1 && multiplicacao == true)
         {
             Time.timeScale = 0;
             txtMoedasQTD.text = "0" + "/" + qtdMax;
