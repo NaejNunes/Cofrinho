@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2639301848266485507}
   m_Layer: 0
   m_Name: DivMoeda7
-  m_TagString: MPMoeda7
+  m_TagString: DivMoeda7
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

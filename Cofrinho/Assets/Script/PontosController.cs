@@ -21,7 +21,6 @@ public class PontosController : MonoBehaviour
     public bool vitoriacondicao, soma, subtracao, multiplicacao, divisao, condicaoSubtracao;
 
 
-
     // Start is called before the first frame update
     void Start()
     {
@@ -39,12 +38,12 @@ public class PontosController : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {              
         if (multiplicacao == true && moedasQTD > 1)
         {
             txtMoedasQTD.text = moedasQTD + "/" + qtdMax; 
         }
-        if(soma == true || subtracao == true)
+        if(soma == true && moedasQTD != -1 || subtracao == true && moedasQTD != -1)
         {
             txtMoedasQTD.text = "" + moedasQTD + "/" + qtdMax;
         }
@@ -250,6 +249,13 @@ public class PontosController : MonoBehaviour
             txtMoedasQTD.text = "" + moedasQTD + "/" + qtdMax;
 
             moedasQTD *= 10;
+        }
+
+        if (collision.gameObject.CompareTag("DivMoeda1"))
+        {
+            txtMoedasQTD.text = "" + moedasQTD + "/" + qtdMax;
+
+            moedasQTD /= 1;
         }
     }
 }

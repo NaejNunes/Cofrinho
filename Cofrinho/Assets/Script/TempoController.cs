@@ -10,7 +10,7 @@ public class TempoController : MonoBehaviour
 
     PontosController pontosCon;
 
-    public AudioClip efeitoFimTempo;
+    public GameObject derrotaHUD;
 
     // Start is called before the first frame update
     void Start()
@@ -21,13 +21,24 @@ public class TempoController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Tempo();       
+        Tempo();
 
-        if (segundos == 0)
+        if (pontosCon.vitoriacondicao == true)
         {
-            AudioSource.PlayClipAtPoint(efeitoFimTempo, Camera.main.transform.position * Time.deltaTime);
-            pontosCon.derrota.SetActive(true);
             Time.timeScale = 0;
+            milesimos = 60;
+        }
+
+        if (segundos <= 0)
+        {
+            derrotaHUD.SetActive(true);
+            Time.timeScale = 0;
+            segundos = 0;
+        }
+
+        else
+        {
+            Time.timeScale = 1;
         }
 
         if (Time.timeScale == 0)

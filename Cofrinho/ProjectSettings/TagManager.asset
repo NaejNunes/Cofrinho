@@ -36,6 +36,16 @@ TagManager:
   - MPMoeda9
   - MPMoeda10
   - AuxiMultiplic
+  - DivMoeda1
+  - DivMoeda2
+  - DivMoeda3
+  - DivMoeda4
+  - DivMoeda5
+  - DivMoeda6
+  - DivMoeda7
+  - DivMoeda8
+  - DivMoeda9
+  - DivMoeda10
   layers:
   - Default
   - TransparentFX
