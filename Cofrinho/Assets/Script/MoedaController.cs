@@ -36,8 +36,10 @@ public class MoedaController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //VERIFICA SE A MOEDA FOI ESCOLHIDA.
         if (moedaEscolhida == true)
         {
+            //MOVE A MOEDA ESCOLHIDA PARA O PONTO ESCOLHIDO.
             if (transform.position != wayPoints[cur].position)
             {
                 Vector2 p = Vector2.MoveTowards(transform.position, wayPoints[cur].position, speed);
@@ -53,8 +55,10 @@ public class MoedaController : MonoBehaviour
             GetComponent<Animator>().SetFloat("DirY", dir.y);
         }
 
+        //VERIFICA SE A MOEDA ESTA ATIVA
         if (animacaoAtiva == true)
         {
+            //INICIA UM CONTADOR PRA DESTRUIR O OBJETO MOEDA
             milesimos -= 1;
             if (milesimos <= 0)
             {
@@ -63,6 +67,7 @@ public class MoedaController : MonoBehaviour
         }
     }
 
+    //METODO INICIAL APENAS PARA TESTE DE CLIQUES NA BOLINHA
     public void OnMouseDown()
     {        
             moedaEscolhida = true;              
@@ -70,19 +75,13 @@ public class MoedaController : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
+        //ATIVA A ANIMACAO PARA DESTRUIR A BOLINHA
         if (collision.gameObject.CompareTag("DestinoMoeda"))
         {
             animacao.SetBool("DestroiMoeda", true);
             animacaoAtiva = true;
             AudioSource.PlayClipAtPoint(efeitoEstrela, Camera.main.transform.position * Time.deltaTime);
             AudioSource.PlayClipAtPoint(efeitoMoeda, Camera.main.transform.position * Time.deltaTime);
-        }
-
-        if (collision.gameObject.CompareTag("AuxiMultiplic") && pontosControl.multiplicacao == true)
-        {
-            pontosControl.txtMoedasQTD.text = pontosControl.moedasQTD + "/" + pontosControl.qtdMax;
-            pontosControl.moedasQTD = 1;
-            AuxiliarMultiplic.SetActive(false);
-        }
+        }        
     }
 }
