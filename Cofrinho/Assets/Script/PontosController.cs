@@ -38,7 +38,14 @@ public class PontosController : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {            
+    {       
+        if(TempoCon.segundos <= 0)
+        {
+            Time.timeScale = 0;
+            TempoCon.segundos = 0;
+
+            derrota.SetActive(true);
+        }
         if (multiplicacao == true && moedasQTD > 1)
         {
             txtMoedasQTD.text = moedasQTD + "/" + qtdMax; 
