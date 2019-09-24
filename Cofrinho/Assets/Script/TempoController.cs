@@ -26,6 +26,7 @@ public class TempoController : MonoBehaviour
         if (pontosCon.vitoriacondicao == true)
         {
             Time.timeScale = 0;
+            segundos = 60;
         }
 
         //Para o tempo caso cronometro chegue em zero

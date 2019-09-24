@@ -16,7 +16,7 @@ public class PontosController : MonoBehaviour
 
     public AudioClip audioError, audioVictory;
 
-    TempoController TempoCon;
+    public TempoController TempoCon;
 
     public bool vitoriacondicao, soma, subtracao, multiplicacao, divisao, condicaoSubtracao;
 
@@ -39,7 +39,7 @@ public class PontosController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {       
-        if(TempoCon.segundos <= 0)
+        if(TempoCon.segundos == 0)
         {
             Time.timeScale = 0;
             TempoCon.segundos = 0;

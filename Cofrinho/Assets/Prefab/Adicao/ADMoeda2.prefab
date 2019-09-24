@@ -73,13 +73,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -3322418061311117274, guid: 0c084e1831af90b4bbff1a38cb612f1e,
-    type: 3}
+  m_Sprite: {fileID: 21300004, guid: 0c084e1831af90b4bbff1a38cb612f1e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.62, y: 0.58}
+  m_Size: {x: 0.61, y: 0.58}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -102,6 +101,7 @@ MonoBehaviour:
   speed: 0.3
   efeitoMoeda: {fileID: 8300000, guid: 51993a745d799864dbc8413a1ba1cfc8, type: 3}
   efeitoEstrela: {fileID: 8300000, guid: 47e1f683fe1b58d479bef60e84451be6, type: 3}
+  AuxiliarMultiplic: {fileID: 0}
 --- !u!50 &3128790458614643471
 Rigidbody2D:
   serializedVersion: 4
